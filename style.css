@@ -378,12 +378,6 @@
             margin: 0;
             text-align: center;
         }
-      .mr{
-         font-size: 1.4rem;
-         margin: 0;
-          text-align: center;
-         color:white;
-
         .footer {
             display: flex;
             justify-content: space-between;
